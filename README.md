@@ -20,3 +20,4 @@ La dashboard permette di simulare scenari dinamici di costo basati sul prezzo in
 
 ---
 *Progetto realizzato per dimostrare competenze end-to-end in Data Analytics applicata al settore Automotive/Finance.*
+<img width="1767" height="738" alt="image" src="https://github.com/user-attachments/assets/55fe79ef-c6cd-4aab-842b-19da9604f43c" />
