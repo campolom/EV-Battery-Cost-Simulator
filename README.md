@@ -16,7 +16,6 @@ La dashboard permette di simulare scenari dinamici di costo basati sul prezzo in
 - **Financial Analysis:** Portafoglio pesato, Normalizzazione Base 100, Sensibilità dei costi.
 
 ## 📊 Dashboard Preview
-*(Inserisci qui una GIF o un breve video della tua dashboard in azione)*
 
 ---
 *Progetto realizzato per dimostrare competenze end-to-end in Data Analytics applicata al settore Automotive/Finance.*
